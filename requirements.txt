@@ -1,0 +1,6 @@
+numpy
+sklearn
+antspyx
+torch
+kornia
+transforms3d
